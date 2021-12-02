@@ -1,6 +1,8 @@
-# Aguachirri ⚡💦
+# Lora ⚡💦
 
-Development of a small electric power boat with a dual water jet propulsion system.
+¿Qué es Lora? Unos 700 mm.
+
+Development of a small electric speedboat with a single motor propulsion system.
 ## Electronics
  The electric and electronic systems development 
 
