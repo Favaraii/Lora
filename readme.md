@@ -1,4 +1,6 @@
-# Aguachirri ⚡💦
+# Lora ⚡💦
+
+¿Qué es Lora? Unos 700 mm.
 
 Development of a small electric power boat with a dual water jet propulsion system.
 ## Electronics
